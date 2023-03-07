@@ -99,3 +99,37 @@ Users can now create an account and log-in to create a ticket or check a ticketâ
 In this case, Karen Martinez and Ted Bezos were created as users
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/VwfwPct.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed. Note that SLA Plans varies based on the organization. To create SLA Plan options:
+  <ul>
+    <li>Admin Panel -> Manage -> SLA</li>
+       <ul>
+          <li>Sev-A (1 hour, 24/7)</li>
+          <li>Sev-B (4 hours, 24/7)</li>
+          <li>Sev-C (8 hours, business hours)</li>
+       </ul>
+  </ul>
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/7zi6cER.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Help Topics will help streamline your end-userâ€™s help desk experience to ensure proper assignment and prompt response to the ticket. To create help topics:
+  <ul>
+    <li>Admin Panel -> Manage -> Help Topics</li>
+       <ul>
+          <li>Business Critical Outage</li>
+          <li>Personal Computer Issues</li>
+          <li>Equipment Request</li>
+         <li>Password Reset</li>
+       </ul>
+  </ul>
+</p>
+<br />
+
